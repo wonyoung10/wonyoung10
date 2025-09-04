@@ -78,9 +78,6 @@
 ### 📊 Language Ratio
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyoung10&layout=pie&theme=radical)
 
-### 🌱 Commit Streak (잔디)
-[![GitHub Streak](https://streak-stats.demolab.com?user=wonyoung10&theme=radical&border_radius=10)](https://git.io/streak-stats)
-
 ---
 
 ## 📫 Contact
