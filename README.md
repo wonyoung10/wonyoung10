@@ -14,6 +14,7 @@
 - 2026년 → **백엔드 학습 예정 (Spring Boot, Java)** 🚀  
 - Dart / Flutter 공부 중 📱
 - 다양한 언어를 활용해 **작은 프로젝트와 공부 경험 有**
+- 해커톤에서 **Figma로 UI 설계 및 팀 협업 경험 有**
 
 ---
 
@@ -30,6 +31,12 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
+### 🔹 Studying Next (예정)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff)
+
 ### 🔹 Other Languages & Projects (공부 중심)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff) 알고리즘 문제 풀이 공부  
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff) 알고리즘 문제 풀이 공부  
@@ -39,10 +46,9 @@
 ### 🔹 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
 
 ---
 
@@ -52,6 +58,7 @@
 - **The Coder** (2025 Hackathon, 완료 ✅)  
   → 코드 분석 & 리뷰 플랫폼 (React 기반 프론트엔드 담당)  
   → GitHub OAuth / 코드 에디터 UI / 배포 경험  
+  → **Figma를 활용한 UI 설계 및 팀 협업**
 
 - **EmoJournal** (진행 중)  
   → 감정 일기장 서비스 (React 중심)  
