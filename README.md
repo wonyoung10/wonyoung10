@@ -3,17 +3,22 @@
 
 # 👨‍💻 정 원영 | Wonyoung Jeong
 
+🌱 배우고 도전하며 성장하는 소프트웨어학부 1학년 🌱  
+
+---
+
 ## 🌱 About Me
 - 소프트웨어학부 1학년 대학생
 - 프론트엔드 (React + styled-components) 집중 공부 중
 - Dart / Flutter 관심 있음
 - 백엔드(Spring Boot, Java)는 공부 예정 🚀
+- 다양한 언어를 활용해 **작은 프로젝트 경험 有**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🔹 Frontend
+### 🔹 Frontend (Main)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
@@ -27,6 +32,12 @@
 ### 🔹 Studying Next (예정)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
+
+### 🔹 Other Languages & Projects
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff) 알고리즘 문제 풀이  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff) 알고리즘 문제 풀이  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff) Unity 게임 개발  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) Pygame으로 간단한 게임 제작  
 
 ### 🔹 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
@@ -48,17 +59,10 @@
   → 감정 일기장 서비스 (React 중심)  
   → 이미지 업로드, 달력 기반 일기 보기, 감정 통계  
 
----
-
-## 📊 GitHub Stats
-![wonyoung10's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyoung10&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyoung10&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=wonyoung10&theme=radical&hide_border=true)](https://git.io/streak-stats)
+### 🧩 개인/작은 프로젝트
+- **C/C++** : 알고리즘 문제 풀이 (백준, 프로그래머스 등)  
+- **C# (Unity)** : 기초 2D 게임 제작 경험  
+- **Python (Pygame)** : 간단한 게임 제작 (예: 블록 피하기, 미니 게임)  
 
 ---
 
