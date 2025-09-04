@@ -72,6 +72,14 @@
 
 ---
 
+## 📊 GitHub Stats
+![wonyoung10's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyoung10&show_icons=true&theme=radical)
+
+### 📊 Language Ratio
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyoung10&layout=pie&theme=radical)
+
+---
+
 ## 📫 Contact
 - **Email**: your_email@example.com  
 - **Notion/Blog**: [링크](https://...)  
