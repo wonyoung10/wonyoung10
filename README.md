@@ -1,13 +1,13 @@
-<!-- 헤더 배너 이미지 (원하면 직접 만든 이미지 URL로 교체 가능) -->
+<!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Hi,%20I'm%20Wonyoung!%20👋&fontSize=40&fontColor=ffffff)
 
 # 👨‍💻 정 원영 | Wonyoung Jeong
 
 ## 🌱 About Me
 - 소프트웨어학부 1학년 대학생
-- 프론트엔드 (React + styled-components) 공부 중
-- Dart / Flutter & 백엔드(Spring Boot)도 관심 있음
-- 꾸준히 성장하는 개발자 지망생 🚀
+- 프론트엔드 (React + styled-components) 집중 공부 중
+- Dart / Flutter 관심 있음
+- 백엔드(Spring Boot, Java)는 공부 예정 🚀
 
 ---
 
@@ -20,11 +20,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=fff)
 
-### 🔹 Backend
+### 🔹 Currently Learning
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
+
+### 🔹 Studying Next (예정)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
 
-### 🔹 Tools & Others
+### 🔹 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
@@ -34,9 +38,15 @@
 ---
 
 ## 📚 Projects
-- **[The Coder](https://github.com/)** : 코드 분석 & 리뷰 플랫폼
-- **[EmoJournal](https://github.com/)** : 감정 일기장 서비스
-- **Hackathon2025** : 팀 프로젝트 준비 중
+
+### 🎯 주요 프로젝트
+- **The Coder** (2025 Hackathon, 완료 ✅)  
+  → 코드 분석 & 리뷰 플랫폼 (React 기반 프론트엔드 담당)  
+  → GitHub OAuth / 코드 에디터 UI / 배포 경험  
+
+- **EmoJournal** (진행 중)  
+  → 감정 일기장 서비스 (React 중심)  
+  → 이미지 업로드, 달력 기반 일기 보기, 감정 통계  
 
 ---
 
