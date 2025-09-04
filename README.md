@@ -1,5 +1,5 @@
 <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Hi,%20I'm%20Wonyoung!%20👋&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Hi,%20I'm%20Wonyoung!%20&fontSize=40&fontColor=ffffff)
 
 # 👨‍💻 정 원영 | Wonyoung Jeong
 
@@ -10,8 +10,9 @@
 ## 🌱 About Me
 - 소프트웨어학부 1학년 대학생
 - 프론트엔드 (React + styled-components) 집중 공부 중
-- Dart / Flutter 관심 있음
+- Dart / Flutter 공부 중 📱
 - 백엔드(Spring Boot, Java)는 공부 예정 🚀
+- **풀스택 개발자**를 목표로 학습 중
 - 다양한 언어를 활용해 **작은 프로젝트 경험 有**
 
 ---
