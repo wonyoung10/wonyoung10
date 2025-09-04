@@ -1,5 +1,5 @@
 <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Hi,%20I'm%20Wonyoung!%20&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Hi,%20I'm%20Wonyoung!%20👋&fontSize=40&fontColor=ffffff)
 
 # 👨‍💻 정 원영 | Wonyoung Jeong
 
@@ -9,11 +9,11 @@
 
 ## 🌱 About Me
 - 소프트웨어학부 1학년 대학생
-- 프론트엔드 (React + styled-components) 집중 공부 중
+- **풀스택 개발자**를 목표로 학습 중  
+- 2025년 → **프론트엔드 집중 (React, styled-components)**  
+- 2026년 → **백엔드 학습 예정 (Spring Boot, Java)** 🚀  
 - Dart / Flutter 공부 중 📱
-- 백엔드(Spring Boot, Java)는 공부 예정 🚀
-- **풀스택 개발자**를 목표로 학습 중
-- 다양한 언어를 활용해 **작은 프로젝트 경험 有**
+- 다양한 언어를 활용해 **작은 프로젝트와 공부 경험 有**
 
 ---
 
@@ -30,15 +30,11 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
-### 🔹 Studying Next (예정)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
-
-### 🔹 Other Languages & Projects
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff) 알고리즘 문제 풀이  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff) 알고리즘 문제 풀이  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff) Unity 게임 개발  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) Pygame으로 간단한 게임 제작  
+### 🔹 Other Languages & Projects (공부 중심)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff) 알고리즘 문제 풀이 공부  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff) 알고리즘 문제 풀이 공부  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff) Unity 게임 & Visual Studio 앱 학습  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) Pygame으로 게임 제작 공부  
 
 ### 🔹 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
@@ -46,6 +42,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff)
 
 ---
 
@@ -60,10 +57,11 @@
   → 감정 일기장 서비스 (React 중심)  
   → 이미지 업로드, 달력 기반 일기 보기, 감정 통계  
 
-### 🧩 개인/작은 프로젝트
-- **C/C++** : 알고리즘 문제 풀이 (백준, 프로그래머스 등)  
-- **C# (Unity)** : 기초 2D 게임 제작 경험  
-- **Python (Pygame)** : 간단한 게임 제작 (예: 블록 피하기, 미니 게임)  
+### 🧩 개인/공부 프로젝트
+- **C/C++** : 알고리즘 문제 풀이 학습 (백준, 프로그래머스 등)  
+- **C# (Unity)** : 기초 2D 게임 제작 (학습용)  
+- **C# (Visual Studio)** : 간단한 윈도우 폼 앱 만들기 (학습용)  
+- **Python (Pygame)** : 미니 게임 제작 (예: 블록 피하기, 학습용)  
 
 ---
 
